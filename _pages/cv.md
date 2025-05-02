@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* **Rochester Institute of Technology (Aug 2022 - Present)**
-  \\PhD in Computing and Information Sciences
-  \\_Advisor: Dr. Konstantinos Papangelis_
+* **Rochester Institute of Technology (Aug 2022 - Present)**  
+   PhD in Computing and Information Sciences  
+   _Advisor: Dr. Konstantinos Papangelis_
   
 * **Military Institute of Science and Technology (Feb 2016 - Dec 2019)**
   BSc in Computer Science and Engineering
