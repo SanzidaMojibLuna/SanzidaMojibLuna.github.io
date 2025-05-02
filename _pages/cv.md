@@ -15,7 +15,7 @@ Education
    PhD in Computing and Information Sciences  
    _Advisor: Dr. Konstantinos Papangelis_
   
-* **Military Institute of Science and Technology (Feb 2016 - Dec 2019)**
+* **Military Institute of Science and Technology (Feb 2016 - Dec 2019)**  
   BSc in Computer Science and Engineering
 
 Work experience
