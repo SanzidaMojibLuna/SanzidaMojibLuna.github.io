@@ -11,9 +11,12 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Rochester Institute of Technology (Aug 2022 - Present)**
+  PhD in Computing and Information Sciences
+  _Advisor: Dr. Konstantinos Papangelis_
+  
+* **Military Institute of Science and Technology (Feb 2016 - Dec 2019)**
+  BSc in Computer Science and Engineering
 
 Work experience
 ======
