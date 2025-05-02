@@ -10,4 +10,4 @@ authors: 'Barsha, Farhat Lamia and Tasneem, Zarin and Mojib, Sanzida and Afrin, 
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9019945'
  
 ---
-[Read full article](https://ieeexplore.ieee.org/abstract/document/9019945)
+[Read full article](https://ieeexplore.ieee.org/abstract/document/9019945) | [Dowload Paper]
