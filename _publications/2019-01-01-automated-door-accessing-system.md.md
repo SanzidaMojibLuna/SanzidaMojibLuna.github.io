@@ -2,7 +2,7 @@
 title: "An IoT based Automated Door Accessing System for Visually Impaired People"
 collection: publications
 category: manuscripts
-permalink: /publication/pub_2019
+permalink: /publication/2019-01-01-automated-door-accessing-system
 excerpt: ''
 date: 2019
 venue: '2019 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE)'
