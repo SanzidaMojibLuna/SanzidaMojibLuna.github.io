@@ -80,8 +80,13 @@ author:
 publication_category:
   conferences:
     title: 'Conference Papers'
+  pos:
+    title: 'Posters'
+  ex:
+    title: 'Extended Abstracts'
   dc:
     title: 'Doctoral Consortium'
+  
   manuscripts:
     title: 'Journal Articles' 
   books:
