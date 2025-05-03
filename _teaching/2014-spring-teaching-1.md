@@ -1,20 +1,22 @@
 ---
-title: "Teaching experience 1"
+title: "GAME DESIGN & DEVELOPMENT II"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "IGME - 320"
+permalink: 
+venue: 
+date: 
+location: 
 ---
+**Jan 2025 - May 2025**  
+_Course Instructor: Dr. Konstantinos Papangelis_  
+* Delivered a guest lecture on _Accessible Game Designs_ and _User Research Methods_
+* Mentored student teams in refining game concepts through iterative feedback and critical review  
+* Guided students in designing and developing user studies to evaluate their projects, emphasizing experimental design, ethical research practices, and inclusive evaluation strategies
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
-======
 
-Heading 2
-======
 
-Heading 3
-======
+
+
+
+
