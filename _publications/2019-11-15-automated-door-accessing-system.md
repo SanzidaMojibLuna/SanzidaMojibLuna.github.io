@@ -1,7 +1,7 @@
 ---
 title: "An IoT based Automated Door Accessing System for Visually Impaired People"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: 
 excerpt: 
 date: 2019-11-15
