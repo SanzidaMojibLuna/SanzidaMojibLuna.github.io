@@ -10,6 +10,7 @@ venue:
 
  
 ---
+🏆 **Best Paper**
 Proceedings of the 2019 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), 2019  
 Farhat Lamia Barsha, Zarin Tasneem, **Sanzida Mojib**, Masuda Afrin, Nusrat Jahan, Marzouka Tasnim, Umma Habiba, Muhammad Nazrul Islam  
 [Read Full Article](https://ieeexplore.ieee.org/abstract/document/9019945)    
