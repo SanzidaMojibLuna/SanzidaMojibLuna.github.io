@@ -11,6 +11,6 @@ venue:
  
 ---
 Proceedings of the 2019 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), 2019  
-Barsha, Farhat Lamia and Tasneem, Zarin and Mojib, Sanzida and Afrin, Masuda and Jahan, Nusrat and Tasnim, Marzouka and Habiba, Umma and Islam, Muhammad Nazrul  
+Farhat Lamia Barsha, Zarin Tasneem, **Sanzida Mojib**, Masuda Afrin, Nusrat Jahan, Marzouka Tasnim, Umma Habiba and Muhammad Nazrul Islam  
 [Read full article](https://ieeexplore.ieee.org/abstract/document/9019945)    
 [Dowload Paper](https://ieeexplore.ieee.org/abstract/document/9019945)
