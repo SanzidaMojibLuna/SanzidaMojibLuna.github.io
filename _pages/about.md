@@ -20,7 +20,4 @@ Recent News
 **Mar 2025:** _My research work was featured in [RIT Magazine, Spring 25 issue](https://www.rit.edu/news/immersive-technologies-virtually-endless-possibilities)._    
 **Mar 2025:** _I was invited as a guest speaker to talk about our latest published work at CHI at the [University of California, Irvine, Center for Hearing Research](https://hearing.uci.edu/) Journal Club._    
 **Feb 2025:** _I was invited as a guest speaker to talk about my work at the [Versatilist Podcast by Immersive Learning Research Network (ILRN)](https://www.podomatic.com/podcasts/versatilist/episodes/2025-03-23T07_00_00-07_00)._    
-**Jan 2025:** _Our CHI 2025 [paper](https://dl.acm.org/doi/10.1145/3706598.3713678) on DHH users' perspectives in AR tasks has been accepted._  
-
-
-
+**Jan 2025:** _Our [paper](https://dl.acm.org/doi/10.1145/3706598.3713678) on DHH users' perspectives in AR tasks has been accepted at CHI 2025._  
