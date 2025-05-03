@@ -4,7 +4,7 @@ collection: teaching
 type: "IGME - 320"
 permalink: 
 venue: 
-date: 2025
+date: 2025-01-13
 location: 
 ---
 **Jan 2025 - May 2025**  
