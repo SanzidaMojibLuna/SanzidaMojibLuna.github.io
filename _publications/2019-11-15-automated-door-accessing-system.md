@@ -13,4 +13,4 @@ venue:
 Proceedings of the 2019 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE), 2019  
 Farhat Lamia Barsha, Zarin Tasneem, **Sanzida Mojib**, Masuda Afrin, Nusrat Jahan, Marzouka Tasnim, Umma Habiba and Muhammad Nazrul Islam  
 [Read full article](https://ieeexplore.ieee.org/abstract/document/9019945)    
-[Download Paper](https://ieeexplore.ieee.org/abstract/document/9019945)
+[Download Paper](files/An_IoT_based_Automated_Door_Accessing_System_for_Visually_Impaired_People.pdf)
