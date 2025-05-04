@@ -30,10 +30,10 @@ I have had the privilege of collaborating with the following researchers across 
 
 Recent News
 ---
-**Apr 2025:** _I was invited as a guest speaker to talk about my work at the [Technology, Equity, and Accessibility (TEA) Lab, Northeastern University](https://tealab.sites.northeastern.edu/research/)._  
+**Apr 2025:** _I was invited as a guest speaker at the [Technology, Equity, and Accessibility (TEA) Lab, Northeastern University](https://tealab.sites.northeastern.edu/research/) to talk about my work._  
 **Apr 2025:** _I remotely presented our paper at [CHI 2025](https://chi2025.acm.org/)._  
 **Apr 2025:** _I presented my research work at [RIT Graduate Showcase](https://www.rit.edu/graduateschool/about-graduate-showcase)._    
 **Mar 2025:** _My research work was featured in [RIT Magazine, Spring 25 issue](https://www.rit.edu/news/immersive-technologies-virtually-endless-possibilities) for contributions to accessibility research in AR._    
-**Mar 2025:** _I was invited as a guest speaker to talk about our latest published work at CHI at the [University of California, Irvine, Center for Hearing Research](https://hearing.uci.edu/) Journal Club._    
-**Feb 2025:** _I was invited as a guest speaker to talk about my work at the [Versatilist Podcast by Immersive Learning Research Network (ILRN)](https://www.podomatic.com/podcasts/versatilist/episodes/2025-03-23T07_00_00-07_00)._    
+**Mar 2025:** _I was invited as a guest speaker at the [University of California, Irvine, Center for Hearing Research](https://hearing.uci.edu/) Journal Club to talk about our latest published work at CHI._    
+**Feb 2025:** _I was invited as a guest speaker at the [Versatilist Podcast by Immersive Learning Research Network (ILRN)](https://www.podomatic.com/podcasts/versatilist/episodes/2025-03-23T07_00_00-07_00) to talk about my work._    
 **Jan 2025:** _Our [paper](https://dl.acm.org/doi/10.1145/3706598.3713678) on DHH users' perspectives in AR tasks has been accepted at CHI 2025._  
