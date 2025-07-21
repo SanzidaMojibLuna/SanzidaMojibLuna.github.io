@@ -23,7 +23,8 @@ I have had the privilege of collaborating with the following researchers across 
 * [Dr. Michael Saker](https://www.citystgeorges.ac.uk/about/people/academics/michael-saker), Collaborator  
 * [Dr. Samuli Lato](https://www.utu.fi/en/people/samuli-laato), Collaborator  
 * [Dr. David Schwartz](https://www.rit.edu/directory/disvks-david-schwartz), Collaborator  
-* [Dr. Yihong Wang](https://scholar.xjtlu.edu.cn/en/persons/YihongWang), Collaborator  
+* [Dr. Yihong Wang](https://scholar.xjtlu.edu.cn/en/persons/YihongWang), Collaborator
+* [Elise Baron](https://www.linkedin.com/in/elise-baron-14267a14a/), Collaborator
 
 
 
