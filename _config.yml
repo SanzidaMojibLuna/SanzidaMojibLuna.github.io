@@ -82,7 +82,7 @@ publication_category:
     title: 'Conference Papers'
   pos:
     title: 'Posters'
-  jo:
+  journals:
     title: 'Journal Articles'
   ex:
     title: 'Extended Abstracts'
