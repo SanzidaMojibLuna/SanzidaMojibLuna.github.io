@@ -82,6 +82,8 @@ publication_category:
     title: 'Conference Papers'
   pos:
     title: 'Posters'
+  jo:
+    title: 'Journal Articles'
   ex:
     title: 'Extended Abstracts'
   dc:
