@@ -31,10 +31,10 @@ I have had the privilege of collaborating with the following researchers across 
 
 Recent News
 ---
+**Oct 2025:** _I presented our [poster](https://dl.acm.org/doi/full/10.1145/3663547.3759687) at ASSETS 2025 in Denver, Colorado._  
 **Oct 2025:** _I received a travel grant to attend ASSETS 2025 in Denver, Colorado._  
 **Aug 2025:** _Our [poster](https://www.researchgate.net/publication/394889077_Motivation_and_Re-engagement_in_Mixed_Reality_How_Deaf_and_Hard_of_Hearing_Users_Experience_a_Mixed_Reality_Exergame?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0) on motivation and re-engagement of DHH users in MR exergame has been accepted at ASSETS 2025._  
 **Aug 2025:** _Our [research article](https://dl.acm.org/doi/abs/10.1145/3749841) on interplay between the digital and the physical spaces in Shared AR has been accepted at ACM Transactions on Computer-Human Interaction._  
-**Apr 2025:** _I was invited as a guest speaker at the [Technology, Equity, and Accessibility (TEA) Lab, Northeastern University](https://tealab.sites.northeastern.edu/research/) to talk about my work._  
 **Apr 2025:** _I remotely presented our paper at [CHI 2025](https://chi2025.acm.org/)._  
 **Apr 2025:** _I presented my research work at [RIT Graduate Showcase](https://www.rit.edu/graduateschool/about-graduate-showcase)._    
 **Mar 2025:** _My research work was featured in [RIT Magazine, Spring 25 issue](https://www.rit.edu/news/immersive-technologies-virtually-endless-possibilities) for contributions to accessibility research in AR._    
