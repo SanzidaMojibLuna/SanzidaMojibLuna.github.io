@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 I am a PhD student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) at [Rochester Institute of Technology](https://www.rit.edu/), a member of the [Niantic x RIT Geo Games and Media Research Lab](https://www.rit.edu/nianticgeogameslab/), and advised by [Dr. Konstantinos Papangelis](https://www.rit.edu/directory/kxpigm-konstantinos-papangelis).   
-My work revolves around human-computer interaction, focusing on inclusive design and adaptive technologies that prioritize accessibility from the ground up. My work explores how immersive systems like mobile augmented reality (MAR) can better support Deaf and Hard of Hearing (DHH) users through participatory design, longitudinal studies, and lightweight AI-driven feedback mechanisms. I aim to bridge technical innovation with ethical design, ensuring that emerging technologies are shaped by, not just adapted for, the diverse realities of their users.  
+I am a **Human-Computer Interaction (HCI)** researcher specializing in inclusive design and adaptive technologies, particularly within extended reality (XR). My research investigates the lived experiences of underrepresented communities, including Deaf and Hard of Hearing (DHH) users and older adults, through participatory design, user studies, and longitudinal engagement, with the aim of informing the design of accessible, ethically grounded digital technologies.  
 
 
 Mentors and Collaborators
