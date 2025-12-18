@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) at [Rochester Institute of Technology](https://www.rit.edu/), a member of the [Niantic x RIT Geo Games and Media Research Lab](https://www.rit.edu/nianticgeogameslab/), and advised by [Dr. Konstantinos Papangelis](https://www.rit.edu/directory/kxpigm-konstantinos-papangelis).   
+I am a PhD candidate in the [Golisano College of Computing and Information Sciences](https://www.rit.edu/computing/) at [Rochester Institute of Technology](https://www.rit.edu/), a member of the [Niantic x RIT Geo Games and Media Research Lab](https://www.rit.edu/nianticgeogameslab/), and advised by [Dr. Konstantinos Papangelis](https://www.rit.edu/directory/kxpigm-konstantinos-papangelis).   
 I am a **Human-Computer Interaction (HCI)** researcher specializing in inclusive design and adaptive technologies, particularly within extended reality (XR). My research investigates the lived experiences of underrepresented communities, including Deaf and Hard of Hearing (DHH) users and older adults, through participatory design, user studies, and longitudinal engagement, with the aim of informing the design of accessible, ethically grounded digital technologies.  
 
 
@@ -31,6 +31,7 @@ I have had the privilege of collaborating with the following researchers across 
 
 Recent News
 ---
+**Dec 2025:** _I successfully defended my dissertation proposal and became a PhD candidate._  
 **Oct 2025:** _I presented our [poster](https://dl.acm.org/doi/full/10.1145/3663547.3759687) at ASSETS 2025 in Denver, Colorado._  
 **Oct 2025:** _I received a travel grant to attend ASSETS 2025 in Denver, Colorado._  
 **Aug 2025:** _Our [poster](https://www.researchgate.net/publication/394889077_Motivation_and_Re-engagement_in_Mixed_Reality_How_Deaf_and_Hard_of_Hearing_Users_Experience_a_Mixed_Reality_Exergame?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0) on motivation and re-engagement of DHH users in MR exergame has been accepted at ASSETS 2025._  
