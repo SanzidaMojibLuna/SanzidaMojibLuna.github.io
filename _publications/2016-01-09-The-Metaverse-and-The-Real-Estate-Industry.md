@@ -1,7 +1,7 @@
 ---
 title: "The Metaverse and The Real Estate Industry"
 collection: publications
-category: Bokk Chapters
+category: bc
 permalink: 
 excerpt: 
 date: 2026-01-09
