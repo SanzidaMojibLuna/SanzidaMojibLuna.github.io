@@ -10,7 +10,7 @@ venue:
 
  
 ---
-Handbook of the Metaverse. Springer, Cham.
-**Sanzida Mojib Luna**, Jiangnan Xu, Garreth W. Tigwell, and Konstantinos Papangelis.  
+Handbook of the Metaverse. Springer, Cham.  
+**Sanzida Mojib Luna**, Jiangnan Xu, Garreth W. Tigwell, and Konstantinos Papangelis.    
 [Read Full Article](https://doi.org/10.1007/978-3-032-03296-6_12)    
 [Download Article]()
