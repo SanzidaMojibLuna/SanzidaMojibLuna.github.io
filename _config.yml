@@ -86,6 +86,8 @@ publication_category:
     title: 'Journal Articles'
   ex:
     title: 'Extended Abstracts'
+  bc:
+    title: 'Book Chapters'
   dc:
     title: 'Doctoral Consortium'
   
