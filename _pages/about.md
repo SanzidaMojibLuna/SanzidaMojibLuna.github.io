@@ -31,7 +31,7 @@ I have had the privilege of collaborating with the following researchers across 
 
 Recent News
 ---
-**Jan 2026:** _Our [paper](https://dl.acm.org/doi/10.1145/3706598.3713678) on trust in location-based games has been accepted at CHI 2026._  
+**Jan 2026:** _Our [paper](https://dl-acm-org.ezproxy.rit.edu/doi/full/10.1145/3772318.3790587) on trust in location-based games has been accepted at CHI 2026._  
 **Jan 2026:** _Our book chapter titled [The Metaverse and The Real Estate Industry](https://doi.org/10.1007/978-3-032-03296-6_12) is published as a part of [Handbook of The Metaverse](https://link.springer.com/book/10.1007/978-3-032-03296-6)._  
 **Dec 2025:** _I successfully defended my dissertation proposal and became a PhD candidate._  
 **Oct 2025:** _I presented our [poster](https://dl.acm.org/doi/full/10.1145/3663547.3759687) at ASSETS 2025 in Denver, Colorado._  
