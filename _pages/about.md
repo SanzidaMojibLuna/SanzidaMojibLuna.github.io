@@ -16,7 +16,8 @@ Mentors and Collaborators
 I have had the privilege of collaborating with the following researchers across a range of projects and roles.  
 * [Dr. Konstantinos Papangelis](https://www.rit.edu/directory/kxpigm-konstantinos-papangelis), PhD Advisor   
 * [Dr. Garreth W. Tigwell](https://www.garrethtigwell.com/), Mentor and Collaborator  
-* [Dr. Nicolas LaLone](https://nicklalone.com/), Mentor and Collaborator  
+* [Dr. Nicolas LaLone](https://nicklalone.com/), Mentor and Collaborator
+* [Dr. Kristen Shinohara](https://kristenshinohara.com/), Mentor and Collaborator
 * [Jiangnan Xu](https://www.jiangnanxu.net/), Mentor and Collaborator  
 * [Dr. John Dunham](https://cryptopediacast.com/grav/john), Mentor and Collaborator  
 * [Dr. Alan Chamberlain](http://www.alanchamberlain.com/), Collaborator  
