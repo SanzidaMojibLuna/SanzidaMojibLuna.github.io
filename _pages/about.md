@@ -32,6 +32,7 @@ I have had the privilege of collaborating with the following researchers across 
 
 Recent News
 ---
+**Jul 2026:** _Our paper on sustaining motivation and re-engagement through accessibility has been accepted at CHI PLAY 2026. (pre-print coming soon)_  
 **Jun 2026:** _Our paper on a systematic review on accessibility in XR has been accepted at ASSETS 2026. (pre-print coming soon)_  
 **Jan 2026:** _Our [paper](https://dl-acm-org.ezproxy.rit.edu/doi/full/10.1145/3772318.3790587) on trust in location-based games has been accepted at CHI 2026._  
 **Jan 2026:** _Our book chapter titled [The Metaverse and The Real Estate Industry](https://doi.org/10.1007/978-3-032-03296-6_12) is published as a part of [Handbook of The Metaverse](https://link.springer.com/book/10.1007/978-3-032-03296-6)._  
