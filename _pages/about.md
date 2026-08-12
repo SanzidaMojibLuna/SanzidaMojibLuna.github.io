@@ -32,15 +32,16 @@ I have had the privilege of collaborating with the following researchers across 
 
 Recent News
 ---
+**Aug 2026:** _Our poster on how the purpose of activities shapes older adults’ engagement with XR has been accepted at ASSETS 2026. (pre-print coming soon)_   
 **Jul 2026:** _Our paper on sustaining motivation and re-engagement through accessibility has been accepted at CHI PLAY 2026. (pre-print coming soon)_  
-**Jun 2026:** _Our paper on a systematic review on accessibility in XR has been accepted at ASSETS 2026. (pre-print coming soon)_  
+**Jun 2026:** _Our paper on a systematic review of accessibility in XR has been accepted at ASSETS 2026. (pre-print coming soon)_  
 **Jan 2026:** _Our [paper](https://dl-acm-org.ezproxy.rit.edu/doi/full/10.1145/3772318.3790587) on trust in location-based games has been accepted at CHI 2026._  
 **Jan 2026:** _Our book chapter titled [The Metaverse and The Real Estate Industry](https://doi.org/10.1007/978-3-032-03296-6_12) is published as a part of [Handbook of The Metaverse](https://link.springer.com/book/10.1007/978-3-032-03296-6)._  
 **Dec 2025:** _I successfully defended my dissertation proposal and became a PhD candidate._  
 **Oct 2025:** _I presented our [poster](https://dl.acm.org/doi/full/10.1145/3663547.3759687) at ASSETS 2025 in Denver, Colorado._  
 **Oct 2025:** _I received a travel grant to attend ASSETS 2025 in Denver, Colorado._  
-**Aug 2025:** _Our [poster](https://www.researchgate.net/publication/394889077_Motivation_and_Re-engagement_in_Mixed_Reality_How_Deaf_and_Hard_of_Hearing_Users_Experience_a_Mixed_Reality_Exergame?_tp=eyJjb250ZXh0Ijp7InBhZ2UiOiJwcm9maWxlIiwicHJldmlvdXNQYWdlIjoiaG9tZSIsInBvc2l0aW9uIjoicGFnZUNvbnRlbnQifX0) on motivation and re-engagement of DHH users in MR exergame has been accepted at ASSETS 2025._  
-**Aug 2025:** _Our [research article](https://dl.acm.org/doi/abs/10.1145/3749841) on interplay between the digital and the physical spaces in Shared AR has been accepted at ACM Transactions on Computer-Human Interaction._  
+**Aug 2025:** _Our [poster](https://dl-acm-org.ezproxy.rit.edu/doi/full/10.1145/3663547.3759687) on motivation and re-engagement of DHH users in MR exergame has been accepted at ASSETS 2025._  
+**Aug 2025:** _Our [research article](https://dl.acm.org/doi/abs/10.1145/3749841) on the interplay between the digital and the physical spaces in Shared AR has been accepted at ACM Transactions on Computer-Human Interaction._  
 **Apr 2025:** _I remotely presented our paper at [CHI 2025](https://chi2025.acm.org/)._  
 **Apr 2025:** _I presented my research work at [RIT Graduate Showcase](https://www.rit.edu/graduateschool/about-graduate-showcase)._    
 **Mar 2025:** _My research work was featured in [RIT Magazine, Spring 25 issue](https://www.rit.edu/news/immersive-technologies-virtually-endless-possibilities) for contributions to accessibility research in AR._    
