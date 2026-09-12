@@ -80,10 +80,10 @@ author:
 publication_category:
   conferences:
     title: 'Conference Papers'
-  pos:
-    title: 'Posters'
   journals:
     title: 'Journal Articles'
+  pos:
+    title: 'Posters'
   ex:
     title: 'Extended Abstracts'
   bc:
