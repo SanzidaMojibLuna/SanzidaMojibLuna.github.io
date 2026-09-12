@@ -32,9 +32,9 @@ I have had the privilege of collaborating with the following researchers across 
 
 Recent News
 ---
-**Aug 2026:** _Our poster on how the purpose of activities shapes older adults’ engagement with XR has been accepted at ASSETS 2026. (pre-print coming soon)_   
-**Jul 2026:** _Our paper on sustaining motivation and re-engagement through accessibility has been accepted at CHI PLAY 2026. (pre-print coming soon)_  
-**Jun 2026:** _Our paper on a systematic review of accessibility in XR has been accepted at ASSETS 2026. (pre-print coming soon)_  
+**Aug 2026:** _Our [poster](https://www.researchgate.net/publication/414264218_Exploring_How_Purpose_of_Activities_Shapes_Older_Adults'_Engagement_with_Extended_Reality) on how the purpose of activities shapes older adults’ engagement with XR has been accepted at ASSETS 2026._   
+**Jul 2026:** _Our [paper](https://www.researchgate.net/publication/413793476_Accessibility_in_Extended_Reality_A_Systematic_Review_of_Accessibility_Research_on_Extended_Reality_Published_in_the_ACM_Digital_Library_From_2000_to_2025) on sustaining motivation and re-engagement through accessibility has been accepted at CHI PLAY 2026._  
+**Jun 2026:** _Our [paper](https://www.researchgate.net/publication/413279489_Sustaining_Motivation_and_Re-engagement_Through_Accessibility_A_Multi-Phase_Study_of_Deaf_and_Hard_of_Hearing_Players_in_Mixed_Reality_Exergames) on a systematic review of accessibility in XR has been accepted at ASSETS 2026._  
 **Jan 2026:** _Our [paper](https://dl-acm-org.ezproxy.rit.edu/doi/full/10.1145/3772318.3790587) on trust in location-based games has been accepted at CHI 2026._  
 **Jan 2026:** _Our book chapter titled [The Metaverse and The Real Estate Industry](https://doi.org/10.1007/978-3-032-03296-6_12) is published as a part of [Handbook of The Metaverse](https://link.springer.com/book/10.1007/978-3-032-03296-6)._  
 **Dec 2025:** _I successfully defended my dissertation proposal and became a PhD candidate._  
